@@ -1,0 +1,4 @@
+{"TID":"101","Trainers_Fname":"Alice","Trainers_Lname":"shine","Trainers_Email":"alice@gmail.com","Trainers_Phone":"07867891234","Trainers_DOB":"1984-03-11","Trainers_Gender":"Male","Trainers_Tariff":36.0,"Trainers_Teaches":["Basic","Refresher"]}
+{"ID":"1234","FirstName":"Jaffar","LastName":"Ali","Gender":"Male","Email":"ali@gmial.com","Phone":"09870987098","DOB":"1985-06-02T00:00:00","Tariff":32.0,"Teaches":["Basic","Refresher"]}
+{"ID":"1234","FirstName":"Ahmed","LastName":"ALi","Gender":"Male","Email":"ahmed@gmail.com","Phone":"09876543210","DOB":"2002-02-05T00:00:00","Tariff":39.0,"Teaches":["Basic","Refresher"]}
+{"ID":"123","FirstName":"ahmed","LastName":"rahmani","Gender":"","Email":"ahmed@gmailcom","Phone":"rahmani","DOB":"2007-12-31T00:00:00","Tariff":30.0,"Teaches":["Basic","Refresher"]}
